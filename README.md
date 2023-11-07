@@ -1,2 +1,2 @@
-# Review_RL
-Informatics Research Review 
+# Exploring Value-Based Model-Free DRL: A Comprehensive Review - University of Edinburgh Informatics
+This repository hosts a detailed research review conducted for the Informatics Research Review course at the University of Edinburgh. The content provides a deep dive into the realm of value-based model-free deep reinforcement learning (DRL), beginning with the foundational concepts of reinforcement learning and advancing to intricate discussions on cutting-edge algorithms such as DQN, Double DQN, Dueling DQN, C51, PER, Noisy Nets, Multi-step DQN, and Rainbow DQN. It critically analyzes each algorithm's performance in terms of efficiency and stability while highlighting their real-world applications in autonomous driving, NLP, and robotics.
